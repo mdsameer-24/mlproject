@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/OneDrive/Desktop/ml/mlruns/0/b26d7803b634441eab874a91b9fd72ce/artifacts
+end_time: 1721388112157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b26d7803b634441eab874a91b9fd72ce
+run_name: nimble-koi-900
+run_uuid: b26d7803b634441eab874a91b9fd72ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721388103725
+status: 3
+tags: []
+user_id: root
